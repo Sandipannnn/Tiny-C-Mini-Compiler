@@ -27,14 +27,14 @@ g++ -std=c++17 -Wall -Wextra main.cpp -o tinyc
 
 Windows:
 ```powershell
-.\tinyc.exe input.tc
-.\tinyc.exe control.tc
+.\tinyc.exe input.txt
+.\tinyc.exe control.txt
 ```
 
 Linux / macOS:
 ```bash
-./tinyc input.tc
-./tinyc control.tc
+./tinyc input.txt
+./tinyc control.txt
 ```
 
 ## Tiny C subset supported
